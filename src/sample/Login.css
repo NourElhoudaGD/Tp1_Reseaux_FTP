@@ -1,0 +1,23 @@
+.root {
+    -fx-background-color:  #ffddc1;
+}
+
+.Login_Button{
+    -fx-background-color: #004d40;
+    -fx-border-color: #004d40;
+    -fx-border-radius: 20px;
+    -fx-background-radius: 20px;
+}
+
+.wrong-credentials
+{
+    -jfx-unfocus-color: #ef5350;
+    -jfx-focus-color: #ef5350;
+}
+
+.jfx-snackbar-content
+{
+    -fx-background-color: #d50000;
+    -fx-padding: 10;
+    -fx-background-radius: 15;
+}
